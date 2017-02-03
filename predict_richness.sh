@@ -1,0 +1,1 @@
+python rich_pred.py areas[1-6].txt
